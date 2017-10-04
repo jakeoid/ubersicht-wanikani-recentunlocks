@@ -1,5 +1,5 @@
 options =
-  api_key: "85a8bd06685691821a53e13633c6c798"
+  api_key: ""
   spawn_x: "right"
   spawn_y: "bottom"
   spawn_offset_x: 0
