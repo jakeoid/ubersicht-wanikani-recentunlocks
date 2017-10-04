@@ -15,7 +15,7 @@ This ubersicht plugins displays to you the recent unlocks that you have gained o
 
 1. Clone/Fork the repository.
 2. Unzip `ubersicht-wanikani-recentunlocks.widget.zip`
-3. Move `ubersicht-wanikani-recentunlocks` to your plugins folder
+3. Move `ubersicht-wanikani-recentunlocks` to your widgets folder
 4. Open `ubersicht-wanikani-recentunlocks.coffee` and insert your [API key (v1)](https://www.wanikani.com/settings/account) to the options
 5. Open Ubersicht on menubar and `Refresh All Widgets`
 
