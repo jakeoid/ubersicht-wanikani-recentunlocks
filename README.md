@@ -9,7 +9,7 @@ This ubersicht plugins displays to you the recent unlocks that you have gained o
 
 **Note** This plugin is draggable! Simply click and drag to move it into your desired position and then set those variables inside of your `ubersicht-wanikani-recentunlocks.coffee` options!
 
-<img src="https://i.imgur.com/csoHGuY.png" align="center" />
+<img src="https://i.imgur.com/q6HvC2L.png" align="center" />
 
 ## Installation
 
